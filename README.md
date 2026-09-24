@@ -1,52 +1,37 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">Links de Andre Luiz</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  Uma página de links pessoais de Andre Luiz, baseada no projeto DevLinks.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-contato">Contato</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Foto de perfil de Andre Luiz" src="https://avatars.githubusercontent.com/u/102117666?v=4" width="160">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
+- Git e GitHub
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Uma página de links para apresentar os canais profissionais de Andre Luiz.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Perfil no GitHub](https://github.com/AndreLuizdeLima)
+- [LinkedIn](https://www.linkedin.com/in/andre-luiz-de-lima-60877a220)
+- [Instagram](https://www.instagram.com/andreluizpbbr/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+## 📫 Contato
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+- [WhatsApp](https://wa.me/5546999131085)
+- [E-mail](mailto:andreluizjp2015@gmail.com)
